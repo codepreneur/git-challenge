@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+"upstream" remote is the original source of the files. Useful to know for pull requests.
